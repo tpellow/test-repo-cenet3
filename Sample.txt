@@ -1,0 +1,3 @@
+Why don't data scientists trust graphs?
+
+Because they can't always figure out what's the plot!
